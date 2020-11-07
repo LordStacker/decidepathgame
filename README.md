@@ -1,2 +1,2 @@
 # decidepathgame
-just a decide your path game
+Checke the py file :D
