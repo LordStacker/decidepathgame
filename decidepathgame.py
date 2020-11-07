@@ -28,9 +28,13 @@ if age >= 18:
             else:
                 print("You fell in the river and lost...")
 
-        
-
         else:
+            ans = input('You notice a tree with an apple, do you want to eat it? yes/not').lower()
+            if ans == 'yes':
+                print('Now you are snowhite and need a prince to kiss you, bye bye')
+            else:
+                print('you won congratulations')
+                exit()
             print ("You just got killed and you lost")
     else:
         print("see you later niqa")
