@@ -1,11 +1,3 @@
-#string "cualquier cosa en comillas"
-#int cualquier numero positivo o negativo sin decimal
-#float cualquier numero con decimal.0 o lo que sea
-#bool True, False
-#weapon = input("Pick a weapon (sword/banana):")
-    #if weapon =="banana"
-
-
 print ("Welcome to DOOM(game) ")
 name = input("What is your name? ")
 age = int(input("what is your age? "))
